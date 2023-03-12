@@ -31,7 +31,7 @@ The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_m
 
 ## Create your own prompt using AI
 
-[We](https://huggingface.co/neuralinternet) created an [Chattensor Prompt Generator App](https://huggingface.co/spaces/neuralinternet/chattensor-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
+[We](https://huggingface.co/neuralinternet) created an [Chattensor Prompt Generator App](https://huggingface.co/spaces/neuralinternet/chattensor-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses the orignal repository as its training dataset.
 
 Credits: [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 

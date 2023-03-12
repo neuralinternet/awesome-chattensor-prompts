@@ -4,7 +4,7 @@
 
 Welcome to the "Awesome Chattensor Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
 
-The [Chattensor](https://chat.bittensor.com/chat) model is a large language model trained by [Opentensor](https://bittensor.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+The [Chattensor](https://chat.bittensor.com/chat) model is a large language model trained by [Opentensor Foundation](https://bittensor.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
 In this repository, you will find a variety of prompts that can be used with Chattensor. We encourage you to [add your own prompts](https://github.com/neuralinternet/awesome-chattensor-prompts/edit/main/README.md) to the list, and to use Chattensor to generate new prompts as well.
 

@@ -14,11 +14,11 @@ We hope you find these prompts useful and have fun using Chattensor!
 
 **[View on GitHub](https://github.com/neuralinternet/awesome-chattensor-prompts)**
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+**[View on Hugging Face](https://huggingface.co/datasets/NeuralInternet/awesome-chattensor-prompts)**
 
 ### Want to Write Effective Prompts?
 
-I've authored a free e-book called **"The ChatGPT Prompt Book - LifeArchitect.ai"**.
+**"The ChatGPT Prompt Book - LifeArchitect.ai"**.
 
 📖 **[Read the free e-book](https://docs.google.com/presentation/d/17b_ocq-GL5lhV_bYSShzUgxL02mtWDoiw9xEroJ5m3Q/edit#slide=id.gc6f83aa91_0_79)**
 

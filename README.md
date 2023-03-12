@@ -28,14 +28,12 @@ The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_m
 
 👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
 
----
 
-### Create your own prompt using AI
+## Create your own prompt using AI
 
 [Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
----
+
 Credits: [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
----
 
 # Prompts
 
